@@ -1,0 +1,5 @@
+[workspace]
+
+members = [
+    "sprite_render_test"
+]

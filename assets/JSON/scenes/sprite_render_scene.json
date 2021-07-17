@@ -1,0 +1,9 @@
+{
+  "load_type_id": "sprite_render_scene",
+  "actual_value": {
+    "entity_paths": [
+      "assets/JSON/entities/sprite_render_test.json"
+    ],
+    "scene_values": null
+  }
+}

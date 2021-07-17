@@ -1,0 +1,3 @@
+[submodule "sprite_render_test"]
+	path = sprite_render_test
+	url = https://github.com/tlmoroso/sprite_render_test.git

@@ -1,0 +1,9 @@
+{
+  "load_type_id": "entity_loader",
+  "actual_value": {
+    "component_paths": [
+      "assets/JSON/components/transform.json",
+      "assets/JSON/components/texture.json"
+    ]
+  }
+}
