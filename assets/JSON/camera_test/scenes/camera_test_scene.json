@@ -1,0 +1,8 @@
+{
+  "load_type_id": "camera_test_scene",
+  "actual_value": {
+    "entity_paths": [
+      "assets/JSON/camera_test/entities/camera_test.json"
+    ]
+  }
+}

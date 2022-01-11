@@ -1,0 +1,8 @@
+{
+  "load_type_id": "scene_stack",
+  "actual_value": {
+    "scene_paths":[
+      "assets/JSON/camera_test/scenes/camera_test_scene.json"
+    ]
+  }
+}

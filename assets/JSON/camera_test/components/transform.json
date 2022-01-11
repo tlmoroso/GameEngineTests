@@ -1,0 +1,8 @@
+{
+  "load_type_id": "transform",
+  "actual_value": {
+    "translation": [480.0,270.0],
+    "scale": [100.0,200.0],
+    "rotation": 0
+  }
+}

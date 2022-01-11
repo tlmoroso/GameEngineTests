@@ -1,0 +1,9 @@
+{
+  "load_type_id": "entity_loader",
+  "actual_value": {
+    "component_paths": [
+      "assets/JSON/camera_test/components/transform.json",
+      "assets/JSON/camera_test/components/texture.json"
+    ]
+  }
+}

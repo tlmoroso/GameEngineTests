@@ -1,0 +1,23 @@
+[package]
+name = "camera_test"
+version = "0.1.0"
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+game_engine = { path = "../../gameEngine", features = ["trace"] }
+anyhow = "1.0.42"
+luminance-front = "0.6.0"
+luminance-glfw = "0.18.0"
+luminance-gl = "0.19.0"
+specs = {version = "0.17.0", features = ["specs-derive"]}
+glam = "0.17.1"
+serde = {version = "1.0", features = ["derive"]}
+serde_json = "1.0.64"
+thiserror = "1.0.26"
+tracing-subscriber = "0.2.19"
+tracing = "0.1.26"
+tracing-appender = "0.1.2"
+tracing-bunyan-formatter = "0.1.7"
+glfw = "0.43"

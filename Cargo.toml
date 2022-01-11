@@ -1,5 +1,6 @@
 [workspace]
 
 members = [
-    "sprite_render_test"
+    "sprite_render_test",
+    "camera_test"
 ]
